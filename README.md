@@ -27,4 +27,4 @@ To improve organic visibility, keyword rankings, and customer engagement through
 
 ## 📂 Project File
 You can view the full project here:
-👉 SEO Project.pdf
+👉[ SEO Project.pdf](https://github.com/anushri2511/SEO-Project-/blob/879d2b37265c7610cbba4dee2d18f9c5608a7b58/SEO%20Project.pdf)
