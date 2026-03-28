@@ -1,4 +1,8 @@
 # ☕ SEO Project: Roastery Coffee House (Lucknow)
+## 🔗 Useful Links
+
+- [Roastery Coffee House](https://roasterycoffee.co.in/lucknow/)
+- [The Hazelnut Factory](https://thehazelnutfactory.com/)
 
 ## 📌 Overview
 This project is a complete SEO audit and strategy plan for Roastery Coffee House, a premium café in Lucknow.
